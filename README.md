@@ -1,8 +1,6 @@
-# NetworkWalks-BO82-Week-1-CyberSecurity-Lab-Setup
-Lab Setup(for Cyber Security and Ethical hacking practice)
 # networkwalks-B082-week1-CyberSecurity-lab-setup
 lab setup( for cybersecurity and ethical hacking practice )
-# 🔐 Cybersecurity & Ethical Hacking — Practical Lab
+#  Cybersecurity & Ethical Hacking — Practical Lab
 
 <p align="center">
 
@@ -18,9 +16,9 @@ lab setup( for cybersecurity and ethical hacking practice )
 </p>
 
 <p align="center">
-  🎓 <b>NetworkWalks Academy</b> &nbsp; • &nbsp;
-  📚 <b>Batch B082</b> &nbsp; • &nbsp;
-  🗓️ <b>Week 01</b>
+   <b>NetworkWalks Academy</b> &nbsp; • &nbsp;
+   <b>Batch B082</b> &nbsp; • &nbsp;
+   <b>Week 01</b>
 </p>
 
 ---
@@ -42,7 +40,7 @@ The environment provides a safe and controlled space for performing authorized c
 
 ---
 
-## 🛡️ Why an Isolated Lab?
+##  Why an Isolated Lab?
 
 A cybersecurity laboratory should be isolated from real-world systems so that experiments can be performed safely.
 
@@ -164,7 +162,8 @@ ip addr
 
 ###  CyberLab Network
 
-![CyberLab Network]<img width="955" height="697" alt="image" src="https://github.com/user-attachments/assets/fd9033fe-3436-4c0b-a93d-3ef183dbb6e2" />
+![CyberLab Network]<img width="1919" height="1079" alt="Screenshot 2026-08-11 141841" src="https://github.com/user-attachments/assets/d54d8e48-b39e-4337-9ea8-73e503b88202" />
+
 
 
 
@@ -174,7 +173,8 @@ ip addr
 
 ###  Kali IP Configuration
 
-![Kali IP Configuration]<img width="1040" height="488" alt="image" src="https://github.com/user-attachments/assets/2adcf3d5-194e-49e4-b43d-86dec8af50d2" />
+![Kali IP Configuration] <img width="1920" height="1080" alt="Screenshot_2026-08-11_04_53_55" src="https://github.com/user-attachments/assets/e2908c37-6350-486f-9c1f-8fc628745d6c" />
+
 
 
 
@@ -213,7 +213,7 @@ ping google.com
 
  **Result: Verified**
 
-![Internet Connectivity] /home/kali/Pictures/Screenshot_2026-08-11_04_53_55.png
+![Internet Connectivity] 
 
 
 
